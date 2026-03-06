@@ -23,24 +23,17 @@ Things that describe me best:
 # 🛠 Tech Stack
 
 ### Languages
-- JavaScript
-- Python
-- TypeScript
+- C#
 - HTML
 - CSS
 
-### Frameworks & Libraries
-- React
-- Node.js
-- Express
-- Next.js
 
 ### Tools
 - Git
 - GitHub
-- Docker
+- Unity
 - VS Code
-- Linux
+
 
 ---
 
@@ -64,9 +57,10 @@ Things that describe me best:
 Short description of what the project does.
 
 **Tech used**
-- React
-- Node.js
-- MongoDB
+- Unity
+- VS Code
+- Github
+- Git
 
 ---
 
@@ -74,9 +68,11 @@ Short description of what the project does.
 Explain what problem this project solves.
 
 **Tech used**
-- Python
-- FastAPI
-- PostgreSQL
+- Unity
+- VS Code
+- Github
+- Git
+
 
 ---
 
@@ -84,9 +80,11 @@ Explain what problem this project solves.
 Describe the goal and what makes it interesting.
 
 **Tech used**
-- TypeScript
-- Next.js
-- Tailwind
+- Unity
+- VS Code
+- Github
+- Git
+
 
 ---
 
@@ -107,9 +105,8 @@ Describe the goal and what makes it interesting.
 
 # 🌍 Connect With Me
 
-- GitHub: https://github.com/YOURUSERNAME
-- LinkedIn: https://linkedin.com/in/YOURPROFILE
-- Portfolio: https://yourwebsite.com
+- GitHub: https://github.com/BadTimeForU
+- Portfolio: [https://yourwebsite.com](https://38482.hosts2.ma-cloud.nl/Portfolio/index.html)
 
 ---
 
