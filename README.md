@@ -1,16 +1,132 @@
-## Hi there 👋
+# 👋 Hey, I'm [Your Name]
 
-<!--
-**BadTimeForU/BadTimeForU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Sigma
-Here are some ideas to get you started:
+🚀 Developer | Builder | Problem Solver  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile. This is where I build things, break things, and occasionally fix them again.
+
+---
+
+# 🧠 About Me
+
+I'm a developer who enjoys building systems, learning new technologies, and turning ideas into real projects.
+
+Things that describe me best:
+
+- 💻 Passionate about software development
+- 🧠 Always learning something new
+- ⚡ I like solving hard problems
+- 🛠 I build projects to improve my skills
+- 🚀 Interested in startups, technology, and innovation
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+- JavaScript
+- Python
+- TypeScript
+- HTML
+- CSS
+
+### Frameworks & Libraries
+- React
+- Node.js
+- Express
+- Next.js
+
+### Tools
+- Git
+- GitHub
+- Docker
+- VS Code
+- Linux
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+
+---
+
+# 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOURUSERNAME&theme=tokyonight)
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 Project One
+Short description of what the project does.
+
+**Tech used**
+- React
+- Node.js
+- MongoDB
+
+---
+
+## ⚡ Project Two
+Explain what problem this project solves.
+
+**Tech used**
+- Python
+- FastAPI
+- PostgreSQL
+
+---
+
+## 🛠 Project Three
+Describe the goal and what makes it interesting.
+
+**Tech used**
+- TypeScript
+- Next.js
+- Tailwind
+
+---
+
+# 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night)
+
+---
+
+# 🧑‍💻 What I'm Currently Learning
+
+- System Design
+- Backend Architecture
+- Performance Optimization
+- AI & Machine Learning
+
+---
+
+# 🌍 Connect With Me
+
+- GitHub: https://github.com/YOURUSERNAME
+- LinkedIn: https://linkedin.com/in/YOURPROFILE
+- Portfolio: https://yourwebsite.com
+
+---
+
+# 🎯 Goals
+
+- Build impactful software
+- Contribute to open source
+- Keep improving every day
+
+---
+
+# ⚡ Fun Facts
+
+- I like building side projects
+- I enjoy learning new technologies
+- I believe consistency beats talent
+
+---
+
+⭐ If you like my projects, consider giving them a star.
