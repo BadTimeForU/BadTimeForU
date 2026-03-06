@@ -37,12 +37,27 @@ Things that describe me best:
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Metrics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BadTimeForU&show_icons=true&theme=tokyonight)
+![Metrics](https://metrics.lecoq.io/BadTimeForU?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BadTimeForU&layout=compact&theme=tokyonight)
+---
 
+# 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=BadTimeForU&theme=tokyonight&no-frame=true&margin-w=10)
+
+---
+
+# 📈 Contribution Graph
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=BadTimeForU&theme=tokyo-night)
+
+---
+
+# 👀 Profile Views
+
+![Views](https://komarev.com/ghpvc/?username=BadTimeForU&label=Profile%20views&color=0e75b6&style=flat)
 ---
 
 # 🔥 GitHub Streak
